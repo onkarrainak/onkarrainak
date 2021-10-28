@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onkar Rainak.</h1>
 <h3 align="center">To contribute to the success of an organization by utilizing my skills and knowledge in the field of Software Development with continuous growth and development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarrainak&label=Profile%20views&color=0e75b6&style=flat" alt="onkarrainak" /> </p>
 
 - 💬 Ask me about **Ask me about Python, Data Science, And Machine Learning**
 
