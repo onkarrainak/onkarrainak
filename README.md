@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Data Science Project.**
 
-- 💬 Ask me about **Ask me about Python, Data Science, And Machine Learning.**
+- 💬 Ask me about **Python,Java, Data Science, And Machine Learning.**
 
 - 📫 How to reach me **rainakonkar@gmail.com**
 
