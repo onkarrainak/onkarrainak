@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Data Science Fresher from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarrainak&label=Profile%20views&color=0e75b6&style=flat" alt="onkarrainak" /> </p>
-<img align="right" alt="Coding" width="400" src="C:\Users\raina\Downloads\Data Analytics - Animation.gif">
+<img align="right" alt="Coding" width="400" src="![Data Analytics - Animation](https://github.com/onkarrainak/onkarrainak/assets/88074767/42478580-5a05-4aaf-9807-25fd2bd616c9)
+">
 
 - 🌱 I’m currently learning **full-stack development.**
 
@@ -15,8 +16,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/onkarrainak](https://github.com/onkarrainak)
   
 - 📄 Know about my experiences [www.linkedin.com/in/onkar-rainak-](www.linkedin.com/in/onkar-rainak-)
-  ![Data Analytics - Animation](https://github.com/onkarrainak/onkarrainak/assets/88074767/42478580-5a05-4aaf-9807-25fd2bd616c9)
-
+  
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 <br><br>
 <h3 align="left">Connect with me:</h3>
