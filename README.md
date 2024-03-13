@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarrainak&label=Profile%20views&color=0e75b6&style=flat" alt="onkarrainak" /> </p>
 
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="400"/>
+<img align="right" alt="GIF" src="Data Analytics - Animation.gif" width="400"/>
 
 - 🌱 I’m currently learning **full-stack development.**
 
