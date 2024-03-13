@@ -1,23 +1,20 @@
 <h1 align="center">Hi 👋, I'm Onkar Prakash Rainak.</h1>
 <h3 align="center">A passionate Data Science Fresher from India.</h3>
-
+<img align="right" alt="GIF" src="Data Analytics - Animation.gif" width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarrainak&label=Profile%20views&color=0e75b6&style=flat" alt="onkarrainak" /> </p>
 
-<img align="right" alt="GIF" src="Data Analytics - Animation.gif" width="400"/>
 
 - 🌱 I’m currently learning **full-stack development.**
 
 - 👯 I’m looking to collaborate on **Data Science Project.**
 
-- 💬 Ask me about **Python,Java, Data Science, And Machine Learning.**
+- 💬 Ask me about **Python, Java, Data Science, And Machine Learning.**
 
 - 📫 How to reach me **rainakonkar@gmail.com**
 
 - 👨‍💻 All of my projects are available at [https://github.com/onkarrainak](https://github.com/onkarrainak)
   
 - 📄 Know about my experiences [www.linkedin.com/in/onkar-rainak-](www.linkedin.com/in/onkar-rainak-)
-  
-
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
