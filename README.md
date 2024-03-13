@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarrainak&label=Profile%20views&color=0e75b6&style=flat" alt="onkarrainak" /> </p>
 
-<img align="right" alt="" width="400" src="(https://github.com/onkarrainak/onkarrainak/assets/88074767/42478580-5a05-4aaf-9807-25fd2bd616c9)
+<img align="right" alt="" width="400" src="[(https://github.com/onkarrainak/onkarrainak/assets/88074767/42478580-5a05-4aaf-9807-25fd2bd616c9)](https://github.com/onkarrainak/onkarrainak/blob/main/Data%20Analytics%20-%20Animation.gif)
 ">
 
 - 🌱 I’m currently learning **full-stack development.**
