@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarrainak&label=Profile%20views&color=0e75b6&style=flat" alt="onkarrainak" /> </p>
 
 
-- 🌱 I’m currently learning **full-stack development.**
+- 🌱 I’m currently learning **Capgemini-Certification-Program-in-Java-Full-Stack.**
 
 - 👯 I’m looking to collaborate on **Data Science Project.**
 
