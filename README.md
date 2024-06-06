@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onkar Prakash Rainak.</h1>
 <h3 align="center">A passionate Data Science Fresher from India.</h3>
-<img align="right" alt="GIF" src="2807765_18140.gif"width="450"/>
+<img align="right" alt="GIF" src="2807765_18140.gif"width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarrainak&label=Profile%20views&color=0e75b6&style=flat" alt="onkarrainak" /> </p>
 
 
