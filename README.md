@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/onkarrainak](https://github.com/onkarrainak)
   
-- 📄 Know about my experiences [www.linkedin.com/in/onkar-rainak-](www.linkedin.com/in/onkar-rainak-)
+- 📄 Know about my experiences [www.linkedin.com/in/onkar-rainak](www.linkedin.com//onkarin-rainak)
 <br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
