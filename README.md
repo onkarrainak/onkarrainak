@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Data Science Project.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/onkarrainak](https://github.com/onkarrainak)
+- 👨‍💻 All of my projects are available at [https://github.com/OnkarRainak](https://github.com/OnkarRainak)
 
-- 💬 Ask me about **Ask me about Python, Java, Data Science, Machine Learning, Spring Boot. .**
+- 💬 Ask me about **Ask me about Python, Java, Data Science, Machine Learning and Spring Boot. .**
 
 - 📫 How to reach me **rainakonkar@gmail.com**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/onkarrainak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/onkarrainak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/onkarrainak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/OnkarRainak" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/onkarrainak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/onkarrainak" height="30" width="40" /></a>
 </p>
 
