@@ -3,8 +3,6 @@
 <img align="right" alt="GIF" src="2807765_18140.gif"width="400"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onkarrainak&label=Profile%20views&color=0e75b6&style=flat" alt="onkarrainak" /> </p>
 
-- 🌱 I’m currently learning **I am currently in the process of learning full-stack development.**
-
 - 👯 I’m looking to collaborate on **Data Science Project.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OnkarRainak](https://github.com/OnkarRainak)
